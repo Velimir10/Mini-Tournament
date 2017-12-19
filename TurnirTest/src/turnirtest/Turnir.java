@@ -88,7 +88,7 @@ public class Turnir {
         grupa(b);
         System.out.println("Grupa C");
         grupa(c);
-        System.out.println("Grupa B");
+        System.out.println("Grupa D");
         grupa(d);
     }
 
